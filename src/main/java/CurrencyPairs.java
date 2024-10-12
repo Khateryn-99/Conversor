@@ -1,0 +1,2 @@
+public enum CurrencyPairs{COPUSD,ARSBOB,USDARS,BRLCLP,BRLCOP,CLPARS
+}
